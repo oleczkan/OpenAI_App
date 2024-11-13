@@ -3,6 +3,3 @@ venv/
 
 # Ignorowanie pliku z kluczem API
 .env
-
-OpenAI_Apka/
-OpenAI_App/
